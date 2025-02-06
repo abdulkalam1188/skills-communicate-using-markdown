@@ -12,3 +12,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 testing differently than git to see if other comments work here
 ```
+``` javascript
+var myVar = "Hello Coder!";
+```
