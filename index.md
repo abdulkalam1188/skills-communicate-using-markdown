@@ -24,7 +24,7 @@ select * from oe_order_headers_all;
 ``` oracle
 select * from oe_order_headers_all;
 ```
-``` plsql
+``` sql
 decalre
 myvar varchar2(10);
 begin
