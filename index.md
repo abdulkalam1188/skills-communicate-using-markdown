@@ -15,3 +15,6 @@ testing differently than git to see if other comments work here
 ``` javascript
 var myVar = "Hello Coder!";
 ```
+``` javascript
+var myVar = "Hello Coder!
+```
