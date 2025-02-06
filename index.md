@@ -21,3 +21,7 @@ var myVar = "Hello Coder!
 ``` sql
 select * from oe_order_headers_all;
 ```
+``` oracle
+select * from oe_order_headers_all;
+```
+
