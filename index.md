@@ -25,7 +25,7 @@ select * from oe_order_headers_all;
 select * from oe_order_headers_all;
 ```
 ``` sql
-decalre
+declare
 myvar varchar2(10);
 begin
 NULL;
