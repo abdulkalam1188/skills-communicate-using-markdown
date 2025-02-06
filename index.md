@@ -24,4 +24,10 @@ select * from oe_order_headers_all;
 ``` oracle
 select * from oe_order_headers_all;
 ```
-
+``` plsql
+decalre
+myvar varchar2(10);
+begin
+NULL;
+END;
+```
