@@ -31,3 +31,6 @@ begin
 NULL;
 END;
 ```
+- [ ] Check if this is a new change
+- [ ] Check if this is a PROD fix
+- [ ] Check if this is a High Impact Change
